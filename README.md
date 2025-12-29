@@ -16,3 +16,26 @@ Batı Karadeniz Telsiz ve Radyo Amatörleri Derneği'nin resmi mobil uygulaması
 1. APK dosyasını indirin
 2. Telefonunuzda: Ayarlar → Güvenlik → "Bilinmeyen kaynaklara izin ver"
 3. İndirilen APK'yı açın ve yükleyin
+
+## 🔄 Güncellemeler
+### v1.1 (Mevcut)
+- Modern dark tema arayüz
+- Çevrim arşivi ve detay sayfaları
+- Canlı istatistikler
+- Katılımcı arama sistemi
+- ISS canlı konum
+- 
+## 🛠️ Geliştirme
+**Platform:** MIT App Inventor  
+**Web Framework:** Progressive Web App (PWA)  
+**Minimum Android:** 5.0 (Lollipop)  
+
+## 📞 İletişim
+- **Web:** https://baktrad.org.tr
+- **Email:** ym2kv@baktrad.org.tr
+- **Telefon:** +90 538 253 74 74
+
+## 📄 Lisans
+Bu uygulama TA2CAY tarafından geliştirilmiştir.
+---
+**© 2026 BAKTRAD - Batı Karadeniz Telsiz ve Radyo Amatörleri Derneği**
