@@ -1,7 +1,7 @@
 # 📱 BAKTRAD Mobil
 Batı Karadeniz Telsiz ve Radyo Amatörleri Derneği'nin resmi mobil uygulaması.
 ## 📥 İndir
-[Son Sürümü İndir (APK)](https://github.com/KULLANICIADI/baktrad-mobil/releases/latest)
+[Son Sürümü İndir (APK)](https://github.com/ta2cay/BAKTRADmobil/releases/latest)
 ## ✨ Özellikler
 - 🌙 Modern dark tema
 - 📡 Çevrim arşivi ve detayları
