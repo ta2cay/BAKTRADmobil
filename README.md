@@ -2,6 +2,14 @@
 Batı Karadeniz Telsiz ve Radyo Amatörleri Derneği'nin resmi mobil uygulaması.
 ## 📥 İndir
 [Son Sürümü İndir (APK)](https://github.com/ta2cay/BAKTRADmobil/releases/latest)
+
+## 📱 Ekran Görüntüleri
+<p align="center">
+  <img src="01-splash-screen.jpg" width="30%" alt="Splash Screen" />
+  <img src="02-ana-sayfa.jpg" width="30%" alt="Ana Sayfa" />
+  <img src="03-istatistikler.jpg" width="30%" alt="İstatistikler" />
+</p>
+
 ## ✨ Özellikler
 - 🌙 Modern dark tema
 - 📡 Çevrim arşivi ve detayları
