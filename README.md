@@ -23,7 +23,7 @@ Resmi Mobil Uygulaması
 
 ## 📱 Uygulama Hakkında
 
-BAKTRAD Mobil, Batı Karadeniz bölgesindeki amatör telsizci topluluğunun haftalık çevrim (net) kayıtlarını, istatistiklerini ve arşivini mobil cihazlardan yönetmek için geliştirilmiş bir **Progressive Web App (PWA)**'dır.
+BAKTRAD Mobil, ülkemizdeki amatör radyo ve telsiz istasyonlarının haftalık çevrim (net) kayıtlarını, istatistiklerini ve arşivini mobil cihazlardan yönetmek için geliştirilmiş bir **Progressive Web App (PWA)**'dır.
 
 > 🌐 **Canlı Adres:** [baktrad.org.tr/mobil](https://baktrad.org.tr/mobil/)  
 > 📻 **Çevrim Portalı:** [cevrim.baktrad.org.tr](https://cevrim.baktrad.org.tr)
